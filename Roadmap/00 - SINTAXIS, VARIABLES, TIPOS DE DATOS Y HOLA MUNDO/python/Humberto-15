@@ -1,0 +1,29 @@
+# https://python.org
+
+# comentario en linea
+
+"""
+Buenas tardes mi 
+estimado caballero
+"""
+
+'''
+Buenas tardes mi 
+estimado caballero
+'''
+
+my_variable = "Mi variable"
+my_variable = "Nuevo valor de mi variable"
+
+MY_CONSTANT = "Mi constante"
+
+my_int = 9
+my_float = 2,8
+my_bool = True
+my_bool = False
+my_string = "Mi cadena de texto"
+my_other_string = 'Mi otra cadena de texto'
+
+
+print("¡Hola, Python!")
+
